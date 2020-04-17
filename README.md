@@ -27,6 +27,12 @@
 * https://thewritepractice.com/short-story-ideas/
 * https://m.wikihow.com/Write-an-Effective-Screenplay-for-a-Short-Film
 
+## Animation
+
+### Traditional animation
+
+* https://conceptartempire.com/cel-animation/
+
 
 
 
