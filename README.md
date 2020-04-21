@@ -27,11 +27,21 @@
 * https://thewritepractice.com/short-story-ideas/
 * https://m.wikihow.com/Write-an-Effective-Screenplay-for-a-Short-Film
 
-## Animation
+## 3D & Animation
 
 ### Traditional animation
 
 * https://conceptartempire.com/cel-animation/
+
+### Using Substance with Blender
+
+* https://www.blendernation.com/2016/03/24/introduction-using-substance-painter-blender/
+
+### Ivy generator
+
+* https://devforum.roblox.com/t/blender-tips-and-tricks-2-grass-trees-roots-and-ivy/438373
+* https://blenderartists.org/t/blender-addon-piperator-generation-of-pipe-networks-new-version-with-vertex-color-pipe-control/1186693
+* https://www.blendernation.com/2018/10/08/tree-creation-with-modular-tree-addon/
 
 
 
