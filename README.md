@@ -43,12 +43,14 @@
 * https://blenderartists.org/t/blender-addon-piperator-generation-of-pipe-networks-new-version-with-vertex-color-pipe-control/1186693
 * https://www.blendernation.com/2018/10/08/tree-creation-with-modular-tree-addon/
 
+### Tips and tricks
 
+* [Tutorial: Quick Smooth Camera Movements in Blender](https://www.youtube.com/watch?v=a7qyW1G350g)
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzNTA3Nzk4XX0=
+eyJoaXN0b3J5IjpbMjA4MDY1NjQ1Niw5MjM1MDc3OThdfQ==
 -->
