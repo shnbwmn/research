@@ -43,11 +43,19 @@
 * https://blenderartists.org/t/blender-addon-piperator-generation-of-pipe-networks-new-version-with-vertex-color-pipe-control/1186693
 * https://www.blendernation.com/2018/10/08/tree-creation-with-modular-tree-addon/
 
+### 3D Scanning apps
+
+* [https://all3dp.com/2/5-best-3d-scanner-apps-for-your-smartphone/](https://all3dp.com/2/5-best-3d-scanner-apps-for-your-smartphone/)
+* [https://www.sculpteo.com/blog/2019/10/01/top-20-3d-scanning-software-photogrammetry-laser-and-light-scanning-and-scanning-apps-for-your-phone/](https://www.sculpteo.com/blog/2019/10/01/top-20-3d-scanning-software-photogrammetry-laser-and-light-scanning-and-scanning-apps-for-your-phone/)
+* [https://3dinsider.com/3d-scanning-apps/](https://3dinsider.com/3d-scanning-apps/)
+* [https://www.aniwaa.com/buyers-guide/3d-scanners/best-3d-scanning-apps-smartphones/](https://www.aniwaa.com/buyers-guide/3d-scanners/best-3d-scanning-apps-smartphones/)
+* [https://joyofandroid.com/best-3d-scanner-apps-for-android/](https://joyofandroid.com/best-3d-scanner-apps-for-android/)
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM3MDA4NzAsMjA4MDY1NjQ1Niw5Mj
-M1MDc3OThdfQ==
+eyJoaXN0b3J5IjpbMjE1MzA3NjIsLTE5ODM3MDA4NzAsMjA4MD
+Y1NjQ1Niw5MjM1MDc3OThdfQ==
 -->
