@@ -51,11 +51,18 @@
 * [https://www.aniwaa.com/buyers-guide/3d-scanners/best-3d-scanning-apps-smartphones/](https://www.aniwaa.com/buyers-guide/3d-scanners/best-3d-scanning-apps-smartphones/)
 * [https://joyofandroid.com/best-3d-scanner-apps-for-android/](https://joyofandroid.com/best-3d-scanner-apps-for-android/)
 
+## Web Design
+
+### CSS Masks
+
+* [https://css-tricks.com/clipping-masking-css/](https://css-tricks.com/clipping-masking-css/)
+* [https://www.behance.net/gallery/79583727/Huawei-Product-Page-Design-Direction](https://www.behance.net/gallery/79583727/Huawei-Product-Page-Design-Direction)
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1MzA3NjIsLTE5ODM3MDA4NzAsMjA4MD
-Y1NjQ1Niw5MjM1MDc3OThdfQ==
+eyJoaXN0b3J5IjpbMTg0OTI1ODUyNywyMTUzMDc2MiwtMTk4Mz
+cwMDg3MCwyMDgwNjU2NDU2LDkyMzUwNzc5OF19
 -->
