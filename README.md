@@ -60,14 +60,14 @@
 
 ### Blend Modes
 
-[https://css-tricks.com/basics-css-blend-modes/](https://css-tricks.com/basics-css-blend-modes/)
+* [https://css-tricks.com/basics-css-blend-modes/](https://css-tricks.com/basics-css-blend-modes/)
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3MTA4NjU0LDE4NDkyNTg1MjcsMjE1Mz
-A3NjIsLTE5ODM3MDA4NzAsMjA4MDY1NjQ1Niw5MjM1MDc3OThd
-fQ==
+eyJoaXN0b3J5IjpbLTE1NTYzNTI5MDQsMzU3MTA4NjU0LDE4ND
+kyNTg1MjcsMjE1MzA3NjIsLTE5ODM3MDA4NzAsMjA4MDY1NjQ1
+Niw5MjM1MDc3OThdfQ==
 -->
