@@ -58,11 +58,16 @@
 * [https://css-tricks.com/clipping-masking-css/](https://css-tricks.com/clipping-masking-css/)
 * [https://www.behance.net/gallery/79583727/Huawei-Product-Page-Design-Direction](https://www.behance.net/gallery/79583727/Huawei-Product-Page-Design-Direction)
 
+### Blend Modes
+
+[https://css-tricks.com/basics-css-blend-modes/](https://css-tricks.com/basics-css-blend-modes/)
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTI1ODUyNywyMTUzMDc2MiwtMTk4Mz
-cwMDg3MCwyMDgwNjU2NDU2LDkyMzUwNzc5OF19
+eyJoaXN0b3J5IjpbMzU3MTA4NjU0LDE4NDkyNTg1MjcsMjE1Mz
+A3NjIsLTE5ODM3MDA4NzAsMjA4MDY1NjQ1Niw5MjM1MDc3OThd
+fQ==
 -->
