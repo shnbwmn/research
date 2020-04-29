@@ -29,6 +29,22 @@
 
 ## Design
 
+* https://www.blackandwhitestudios.nz/blog/branding-design-process
+* http://adoreddesigns.com/5-signs-your-brand-looks-unprofessional/
+* https://medium.com/@tubikstudio/6-creative-stages-of-branding-design-step-by-step-guide-be557fd329fd
+* https://nicolamurrin.com/blog/2016/11/how-to-create-a-brand-board
+* https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/
+* https://medium.com/black-white-studios/how-to-choose-an-effective-brand-colour-palette-b3c28ea3c075
+* https://jamesclear.com/procrastination
+* https://medium.com/the-mission/to-be-insanely-creative-you-need-to-find-your-flow-44ca9b905ae1
+* https://www.interaction-design.org/literature/article/ideation-for-design-preparing-for-the-design-race
+* https://www.workamajig.com/blog/creative-brief
+* https://filestage.io/blog/creative-brief-checklist/
+* https://kandi.co.za/how-to-write-a-brief/
+* https://www.shutterstock.com/blog/guide-graphic-design-process
+
+### Brand refresh & positioning
+
 * [https://www.creativeco.com/services/brand-refresh-rebrand](https://www.creativeco.com/services/brand-refresh-rebrand)
 * [https://www.creativeco.com/services/brand-positioning](https://www.creativeco.com/services/brand-positioning)
 
@@ -76,8 +92,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0NDM2ODcsMTc3MTEwMTkxNSwtMTM2OT
-A2Nzk5MCwxNjA2ODcwNTU5LC0xNTU2MzUyOTA0LDM1NzEwODY1
-NCwxODQ5MjU4NTI3LDIxNTMwNzYyLC0xOTgzNzAwODcwLDIwOD
-A2NTY0NTYsOTIzNTA3Nzk4XX0=
+eyJoaXN0b3J5IjpbLTE2Mzk2NzcwOTYsMzU0NDM2ODcsMTc3MT
+EwMTkxNSwtMTM2OTA2Nzk5MCwxNjA2ODcwNTU5LC0xNTU2MzUy
+OTA0LDM1NzEwODY1NCwxODQ5MjU4NTI3LDIxNTMwNzYyLC0xOT
+gzNzAwODcwLDIwODA2NTY0NTYsOTIzNTA3Nzk4XX0=
 -->
