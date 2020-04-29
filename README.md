@@ -64,6 +64,10 @@
 * [https://www.aniwaa.com/buyers-guide/3d-scanners/best-3d-scanning-apps-smartphones/](https://www.aniwaa.com/buyers-guide/3d-scanners/best-3d-scanning-apps-smartphones/)
 * [https://joyofandroid.com/best-3d-scanner-apps-for-android/](https://joyofandroid.com/best-3d-scanner-apps-for-android/)
 
+### 3D in flat images
+
+* [https://shihmengli.github.io/3D-Photo-Inpainting/](https://shihmengli.github.io/3D-Photo-Inpainting/)
+
 ## Web Design
 
 ### CSS Masks
@@ -80,7 +84,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjg3MDU1OSwtMTU1NjM1MjkwNCwzNT
-cxMDg2NTQsMTg0OTI1ODUyNywyMTUzMDc2MiwtMTk4MzcwMDg3
-MCwyMDgwNjU2NDU2LDkyMzUwNzc5OF19
+eyJoaXN0b3J5IjpbLTEzNjkwNjc5OTAsMTYwNjg3MDU1OSwtMT
+U1NjM1MjkwNCwzNTcxMDg2NTQsMTg0OTI1ODUyNywyMTUzMDc2
+MiwtMTk4MzcwMDg3MCwyMDgwNjU2NDU2LDkyMzUwNzc5OF19
 -->
