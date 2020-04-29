@@ -27,6 +27,17 @@
 * https://thewritepractice.com/short-story-ideas/
 * https://m.wikihow.com/Write-an-Effective-Screenplay-for-a-Short-Film
 
+## Design
+
+### Design Systems
+
+* [https://medium.muz.li/what-is-a-design-system-1e43d19e7696](https://medium.muz.li/what-is-a-design-system-1e43d19e7696)
+* [https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
+* [https://www.invisionapp.com/inside-design/guide-to-design-systems/](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
+* [https://designsystemsrepo.com/design-systems/](https://designsystemsrepo.com/design-systems/)
+* [https://www.designsystems.com/](https://www.designsystems.com/)
+* 
+
 ## 3D & Animation
 
 ### Traditional animation
@@ -67,7 +78,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTYzNTI5MDQsMzU3MTA4NjU0LDE4ND
-kyNTg1MjcsMjE1MzA3NjIsLTE5ODM3MDA4NzAsMjA4MDY1NjQ1
-Niw5MjM1MDc3OThdfQ==
+eyJoaXN0b3J5IjpbMTQ3NzczOTEyNiwtMTU1NjM1MjkwNCwzNT
+cxMDg2NTQsMTg0OTI1ODUyNywyMTUzMDc2MiwtMTk4MzcwMDg3
+MCwyMDgwNjU2NDU2LDkyMzUwNzc5OF19
 -->
