@@ -29,17 +29,6 @@
 
 ## Design
 
-### Design Systems
-
-* [https://medium.muz.li/what-is-a-design-system-1e43d19e7696](https://medium.muz.li/what-is-a-design-system-1e43d19e7696)
-* [https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
-* [https://www.invisionapp.com/inside-design/guide-to-design-systems/](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
-* [https://designsystemsrepo.com/design-systems/](https://designsystemsrepo.com/design-systems/)
-* [https://www.designsystems.com/](https://www.designsystems.com/)
-* [https://www.designbetter.co/design-systems-handbook](https://www.designbetter.co/design-systems-handbook)
-* [https://www.uxpin.com/create-design-system-guide](https://www.uxpin.com/create-design-system-guide)
-* [https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/](https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/)
-
 ## 3D & Animation
 
 ### Traditional animation
@@ -84,7 +73,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkwNjc5OTAsMTYwNjg3MDU1OSwtMT
-U1NjM1MjkwNCwzNTcxMDg2NTQsMTg0OTI1ODUyNywyMTUzMDc2
-MiwtMTk4MzcwMDg3MCwyMDgwNjU2NDU2LDkyMzUwNzc5OF19
+eyJoaXN0b3J5IjpbMTc3MTEwMTkxNSwtMTM2OTA2Nzk5MCwxNj
+A2ODcwNTU5LC0xNTU2MzUyOTA0LDM1NzEwODY1NCwxODQ5MjU4
+NTI3LDIxNTMwNzYyLC0xOTgzNzAwODcwLDIwODA2NTY0NTYsOT
+IzNTA3Nzk4XX0=
 -->
