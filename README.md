@@ -38,6 +38,7 @@
 * [https://www.designsystems.com/](https://www.designsystems.com/)
 * [https://www.designbetter.co/design-systems-handbook](https://www.designbetter.co/design-systems-handbook)
 * [https://www.uxpin.com/create-design-system-guide](https://www.uxpin.com/create-design-system-guide)
+* [https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/](https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/)
 
 ## 3D & Animation
 
@@ -79,7 +80,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTM0NjQzNCwtMTU1NjM1MjkwNCwzNT
+eyJoaXN0b3J5IjpbMTYwNjg3MDU1OSwtMTU1NjM1MjkwNCwzNT
 cxMDg2NTQsMTg0OTI1ODUyNywyMTUzMDc2MiwtMTk4MzcwMDg3
 MCwyMDgwNjU2NDU2LDkyMzUwNzc5OF19
 -->
