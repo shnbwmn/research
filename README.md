@@ -36,7 +36,8 @@
 * [https://www.invisionapp.com/inside-design/guide-to-design-systems/](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
 * [https://designsystemsrepo.com/design-systems/](https://designsystemsrepo.com/design-systems/)
 * [https://www.designsystems.com/](https://www.designsystems.com/)
-* 
+* [https://www.designbetter.co/design-systems-handbook](https://www.designbetter.co/design-systems-handbook)
+* [https://www.uxpin.com/create-design-system-guide](https://www.uxpin.com/create-design-system-guide)
 
 ## 3D & Animation
 
@@ -78,7 +79,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzczOTEyNiwtMTU1NjM1MjkwNCwzNT
+eyJoaXN0b3J5IjpbMTgzOTM0NjQzNCwtMTU1NjM1MjkwNCwzNT
 cxMDg2NTQsMTg0OTI1ODUyNywyMTUzMDc2MiwtMTk4MzcwMDg3
 MCwyMDgwNjU2NDU2LDkyMzUwNzc5OF19
 -->
