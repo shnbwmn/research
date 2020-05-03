@@ -87,13 +87,19 @@
 
 * [https://css-tricks.com/basics-css-blend-modes/](https://css-tricks.com/basics-css-blend-modes/)
 
+### Equal Height Columns
+
+* [https://css-tricks.com/fluid-width-equal-height-columns/](https://css-tricks.com/fluid-width-equal-height-columns/)
+* [https://css-tricks.com/boxes-fill-height-dont-squish/](https://css-tricks.com/boxes-fill-height-dont-squish/)
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk2NzcwOTYsMzU0NDM2ODcsMTc3MT
-EwMTkxNSwtMTM2OTA2Nzk5MCwxNjA2ODcwNTU5LC0xNTU2MzUy
-OTA0LDM1NzEwODY1NCwxODQ5MjU4NTI3LDIxNTMwNzYyLC0xOT
-gzNzAwODcwLDIwODA2NTY0NTYsOTIzNTA3Nzk4XX0=
+eyJoaXN0b3J5IjpbMTY3NTE5OTMwOSwtMTYzOTY3NzA5NiwzNT
+Q0MzY4NywxNzcxMTAxOTE1LC0xMzY5MDY3OTkwLDE2MDY4NzA1
+NTksLTE1NTYzNTI5MDQsMzU3MTA4NjU0LDE4NDkyNTg1MjcsMj
+E1MzA3NjIsLTE5ODM3MDA4NzAsMjA4MDY1NjQ1Niw5MjM1MDc3
+OThdfQ==
 -->
