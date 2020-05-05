@@ -96,13 +96,17 @@
 
 * [https://getflywheel.com/layout/css-breakpoints-responsive-design-how-to/](https://getflywheel.com/layout/css-breakpoints-responsive-design-how-to/)
 
+### Using Bootstrap grid
+
+* [https://getbootstrap.com/docs/4.0/layout/grid/](https://getbootstrap.com/docs/4.0/layout/grid/)
+* [https://www.freecodecamp.org/news/learn-the-bootstrap-4-grid-system-in-10-minutes-e83bfae115da/](https://www.freecodecamp.org/news/learn-the-bootstrap-4-grid-system-in-10-minutes-e83bfae115da/)
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTc3MTkyOCwxNjc1MTk5MzA5LC0xNj
+eyJoaXN0b3J5IjpbMTM2MTg5ODM2NywxNjc1MTk5MzA5LC0xNj
 M5Njc3MDk2LDM1NDQzNjg3LDE3NzExMDE5MTUsLTEzNjkwNjc5
 OTAsMTYwNjg3MDU1OSwtMTU1NjM1MjkwNCwzNTcxMDg2NTQsMT
 g0OTI1ODUyNywyMTUzMDc2MiwtMTk4MzcwMDg3MCwyMDgwNjU2
