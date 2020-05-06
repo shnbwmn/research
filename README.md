@@ -100,15 +100,21 @@
 
 * [https://getbootstrap.com/docs/4.0/layout/grid/](https://getbootstrap.com/docs/4.0/layout/grid/)
 * [https://www.freecodecamp.org/news/learn-the-bootstrap-4-grid-system-in-10-minutes-e83bfae115da/](https://www.freecodecamp.org/news/learn-the-bootstrap-4-grid-system-in-10-minutes-e83bfae115da/)
+* [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [https://getbootstrap.com/docs/4.0/utilities/flex/](https://getbootstrap.com/docs/4.0/utilities/flex/)
 
+### CSS Grid
+
+* [https://www.youtube.com/watch?v=7kVeCqQCxlk](https://www.youtube.com/watch?v=7kVeCqQCxlk)
+* [https://www.youtube.com/watch?v=CxC925yUxSI](https://www.youtube.com/watch?v=CxC925yUxSI) - CSS Tricks
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTg5ODM2NywxNjc1MTk5MzA5LC0xNj
-M5Njc3MDk2LDM1NDQzNjg3LDE3NzExMDE5MTUsLTEzNjkwNjc5
-OTAsMTYwNjg3MDU1OSwtMTU1NjM1MjkwNCwzNTcxMDg2NTQsMT
-g0OTI1ODUyNywyMTUzMDc2MiwtMTk4MzcwMDg3MCwyMDgwNjU2
-NDU2LDkyMzUwNzc5OF19
+eyJoaXN0b3J5IjpbLTE2MDY5NDU0MTEsMTM2MTg5ODM2NywxNj
+c1MTk5MzA5LC0xNjM5Njc3MDk2LDM1NDQzNjg3LDE3NzExMDE5
+MTUsLTEzNjkwNjc5OTAsMTYwNjg3MDU1OSwtMTU1NjM1MjkwNC
+wzNTcxMDg2NTQsMTg0OTI1ODUyNywyMTUzMDc2MiwtMTk4Mzcw
+MDg3MCwyMDgwNjU2NDU2LDkyMzUwNzc5OF19
 -->
