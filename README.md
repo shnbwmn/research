@@ -72,6 +72,10 @@
 * [https://www.aniwaa.com/buyers-guide/3d-scanners/best-3d-scanning-apps-smartphones/](https://www.aniwaa.com/buyers-guide/3d-scanners/best-3d-scanning-apps-smartphones/)
 * [https://joyofandroid.com/best-3d-scanner-apps-for-android/](https://joyofandroid.com/best-3d-scanner-apps-for-android/)
 
+### Character animation
+
+* [https://www.youtube.com/watch?v=--oTQCysVTs](https://www.youtube.com/watch?v=--oTQCysVTs)
+
 ### 3D in flat images
 
 * [https://shihmengli.github.io/3D-Photo-Inpainting/](https://shihmengli.github.io/3D-Photo-Inpainting/)
@@ -112,9 +116,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY5NDU0MTEsMTM2MTg5ODM2NywxNj
-c1MTk5MzA5LC0xNjM5Njc3MDk2LDM1NDQzNjg3LDE3NzExMDE5
-MTUsLTEzNjkwNjc5OTAsMTYwNjg3MDU1OSwtMTU1NjM1MjkwNC
-wzNTcxMDg2NTQsMTg0OTI1ODUyNywyMTUzMDc2MiwtMTk4Mzcw
-MDg3MCwyMDgwNjU2NDU2LDkyMzUwNzc5OF19
+eyJoaXN0b3J5IjpbMTg4Mzc0MTI3NiwtMTYwNjk0NTQxMSwxMz
+YxODk4MzY3LDE2NzUxOTkzMDksLTE2Mzk2NzcwOTYsMzU0NDM2
+ODcsMTc3MTEwMTkxNSwtMTM2OTA2Nzk5MCwxNjA2ODcwNTU5LC
+0xNTU2MzUyOTA0LDM1NzEwODY1NCwxODQ5MjU4NTI3LDIxNTMw
+NzYyLC0xOTgzNzAwODcwLDIwODA2NTY0NTYsOTIzNTA3Nzk4XX
+0=
 -->
