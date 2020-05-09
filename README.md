@@ -80,6 +80,11 @@
 
 * [https://shihmengli.github.io/3D-Photo-Inpainting/](https://shihmengli.github.io/3D-Photo-Inpainting/)
 
+### AE Mask Tracking
+
+* [https://helpx.adobe.com/africa/after-effects/using/rigid-mask-tracking.html](https://helpx.adobe.com/africa/after-effects/using/rigid-mask-tracking.html)
+* [https://lesterbanks.com/2015/01/comparing-mask-tracker-mocha/](https://lesterbanks.com/2015/01/comparing-mask-tracker-mocha/)
+
 ## Web Design
 
 ### CSS Masks
@@ -116,10 +121,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Mzc0MTI3NiwtMTYwNjk0NTQxMSwxMz
-YxODk4MzY3LDE2NzUxOTkzMDksLTE2Mzk2NzcwOTYsMzU0NDM2
-ODcsMTc3MTEwMTkxNSwtMTM2OTA2Nzk5MCwxNjA2ODcwNTU5LC
-0xNTU2MzUyOTA0LDM1NzEwODY1NCwxODQ5MjU4NTI3LDIxNTMw
-NzYyLC0xOTgzNzAwODcwLDIwODA2NTY0NTYsOTIzNTA3Nzk4XX
-0=
+eyJoaXN0b3J5IjpbMjA5MDUxNTA3MiwxODgzNzQxMjc2LC0xNj
+A2OTQ1NDExLDEzNjE4OTgzNjcsMTY3NTE5OTMwOSwtMTYzOTY3
+NzA5NiwzNTQ0MzY4NywxNzcxMTAxOTE1LC0xMzY5MDY3OTkwLD
+E2MDY4NzA1NTksLTE1NTYzNTI5MDQsMzU3MTA4NjU0LDE4NDky
+NTg1MjcsMjE1MzA3NjIsLTE5ODM3MDA4NzAsMjA4MDY1NjQ1Ni
+w5MjM1MDc3OThdfQ==
 -->
