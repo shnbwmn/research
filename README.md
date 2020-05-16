@@ -117,14 +117,20 @@
 * [https://www.youtube.com/watch?v=7kVeCqQCxlk](https://www.youtube.com/watch?v=7kVeCqQCxlk)
 * [https://www.youtube.com/watch?v=CxC925yUxSI](https://www.youtube.com/watch?v=CxC925yUxSI) - CSS Tricks
 
+## Social Media
+
+### Strategy
+
+* [https://blog.hootsuite.com/how-to-create-a-social-media-marketing-plan/](https://blog.hootsuite.com/how-to-create-a-social-media-marketing-plan/)
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDUxNTA3MiwxODgzNzQxMjc2LC0xNj
-A2OTQ1NDExLDEzNjE4OTgzNjcsMTY3NTE5OTMwOSwtMTYzOTY3
-NzA5NiwzNTQ0MzY4NywxNzcxMTAxOTE1LC0xMzY5MDY3OTkwLD
-E2MDY4NzA1NTksLTE1NTYzNTI5MDQsMzU3MTA4NjU0LDE4NDky
-NTg1MjcsMjE1MzA3NjIsLTE5ODM3MDA4NzAsMjA4MDY1NjQ1Ni
-w5MjM1MDc3OThdfQ==
+eyJoaXN0b3J5IjpbMTExNDI5NTIxNiwyMDkwNTE1MDcyLDE4OD
+M3NDEyNzYsLTE2MDY5NDU0MTEsMTM2MTg5ODM2NywxNjc1MTk5
+MzA5LC0xNjM5Njc3MDk2LDM1NDQzNjg3LDE3NzExMDE5MTUsLT
+EzNjkwNjc5OTAsMTYwNjg3MDU1OSwtMTU1NjM1MjkwNCwzNTcx
+MDg2NTQsMTg0OTI1ODUyNywyMTUzMDc2MiwtMTk4MzcwMDg3MC
+wyMDgwNjU2NDU2LDkyMzUwNzc5OF19
 -->
