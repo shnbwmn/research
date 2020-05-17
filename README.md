@@ -117,6 +117,11 @@
 * [https://www.youtube.com/watch?v=7kVeCqQCxlk](https://www.youtube.com/watch?v=7kVeCqQCxlk)
 * [https://www.youtube.com/watch?v=CxC925yUxSI](https://www.youtube.com/watch?v=CxC925yUxSI) - CSS Tricks
 
+### SEO
+
+* [https://www.searchenginejournal.com/single-page-websites-good-bad-seo/190095/](https://www.searchenginejournal.com/single-page-websites-good-bad-seo/190095/)
+* [https://yoast.com/one-page-website-seo/](https://yoast.com/one-page-website-seo/)
+
 ## Social Media
 
 ### Strategy
@@ -127,10 +132,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDI5NTIxNiwyMDkwNTE1MDcyLDE4OD
-M3NDEyNzYsLTE2MDY5NDU0MTEsMTM2MTg5ODM2NywxNjc1MTk5
-MzA5LC0xNjM5Njc3MDk2LDM1NDQzNjg3LDE3NzExMDE5MTUsLT
-EzNjkwNjc5OTAsMTYwNjg3MDU1OSwtMTU1NjM1MjkwNCwzNTcx
-MDg2NTQsMTg0OTI1ODUyNywyMTUzMDc2MiwtMTk4MzcwMDg3MC
-wyMDgwNjU2NDU2LDkyMzUwNzc5OF19
+eyJoaXN0b3J5IjpbLTExMTQ3OTM3MzIsMTExNDI5NTIxNiwyMD
+kwNTE1MDcyLDE4ODM3NDEyNzYsLTE2MDY5NDU0MTEsMTM2MTg5
+ODM2NywxNjc1MTk5MzA5LC0xNjM5Njc3MDk2LDM1NDQzNjg3LD
+E3NzExMDE5MTUsLTEzNjkwNjc5OTAsMTYwNjg3MDU1OSwtMTU1
+NjM1MjkwNCwzNTcxMDg2NTQsMTg0OTI1ODUyNywyMTUzMDc2Mi
+wtMTk4MzcwMDg3MCwyMDgwNjU2NDU2LDkyMzUwNzc5OF19
 -->
