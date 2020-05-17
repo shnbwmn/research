@@ -48,6 +48,17 @@
 * [https://www.creativeco.com/services/brand-refresh-rebrand](https://www.creativeco.com/services/brand-refresh-rebrand)
 * [https://www.creativeco.com/services/brand-positioning](https://www.creativeco.com/services/brand-positioning)
 
+### Brand guide
+
+* [https://synecticsmedia.com/6-elements-every-brand-book-should-have](https://synecticsmedia.com/6-elements-every-brand-book-should-have)
+* [https://99designs.com/blog/logo-branding/how-to-create-a-brand-style-guide/](https://99designs.com/blog/logo-branding/how-to-create-a-brand-style-guide/)
+* [https://www.hatchbuck.com/blog/elements-brand-style-guide/](https://www.hatchbuck.com/blog/elements-brand-style-guide/)
+
+### Defining target audience
+
+* [https://blog.hootsuite.com/target-market/](https://blog.hootsuite.com/target-market/)
+* [https://99designs.com/blog/business/define-your-target-audience/](https://99designs.com/blog/business/define-your-target-audience/)
+
 ## 3D & Animation
 
 ### Traditional animation
@@ -132,10 +143,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQ3OTM3MzIsMTExNDI5NTIxNiwyMD
-kwNTE1MDcyLDE4ODM3NDEyNzYsLTE2MDY5NDU0MTEsMTM2MTg5
-ODM2NywxNjc1MTk5MzA5LC0xNjM5Njc3MDk2LDM1NDQzNjg3LD
-E3NzExMDE5MTUsLTEzNjkwNjc5OTAsMTYwNjg3MDU1OSwtMTU1
-NjM1MjkwNCwzNTcxMDg2NTQsMTg0OTI1ODUyNywyMTUzMDc2Mi
-wtMTk4MzcwMDg3MCwyMDgwNjU2NDU2LDkyMzUwNzc5OF19
+eyJoaXN0b3J5IjpbMTY4NDM3MjgxNywtMTExNDc5MzczMiwxMT
+E0Mjk1MjE2LDIwOTA1MTUwNzIsMTg4Mzc0MTI3NiwtMTYwNjk0
+NTQxMSwxMzYxODk4MzY3LDE2NzUxOTkzMDksLTE2Mzk2NzcwOT
+YsMzU0NDM2ODcsMTc3MTEwMTkxNSwtMTM2OTA2Nzk5MCwxNjA2
+ODcwNTU5LC0xNTU2MzUyOTA0LDM1NzEwODY1NCwxODQ5MjU4NT
+I3LDIxNTMwNzYyLC0xOTgzNzAwODcwLDIwODA2NTY0NTYsOTIz
+NTA3Nzk4XX0=
 -->
