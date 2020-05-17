@@ -132,6 +132,7 @@
 
 * [https://www.searchenginejournal.com/single-page-websites-good-bad-seo/190095/](https://www.searchenginejournal.com/single-page-websites-good-bad-seo/190095/)
 * [https://yoast.com/one-page-website-seo/](https://yoast.com/one-page-website-seo/)
+* [https://www.wordstream.com/meta-tags](https://www.wordstream.com/meta-tags)
 
 ## Social Media
 
@@ -143,11 +144,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDM3MjgxNywtMTExNDc5MzczMiwxMT
-E0Mjk1MjE2LDIwOTA1MTUwNzIsMTg4Mzc0MTI3NiwtMTYwNjk0
-NTQxMSwxMzYxODk4MzY3LDE2NzUxOTkzMDksLTE2Mzk2NzcwOT
-YsMzU0NDM2ODcsMTc3MTEwMTkxNSwtMTM2OTA2Nzk5MCwxNjA2
-ODcwNTU5LC0xNTU2MzUyOTA0LDM1NzEwODY1NCwxODQ5MjU4NT
-I3LDIxNTMwNzYyLC0xOTgzNzAwODcwLDIwODA2NTY0NTYsOTIz
-NTA3Nzk4XX0=
+eyJoaXN0b3J5IjpbMTE2MzcyOTA0MiwxNjg0MzcyODE3LC0xMT
+E0NzkzNzMyLDExMTQyOTUyMTYsMjA5MDUxNTA3MiwxODgzNzQx
+Mjc2LC0xNjA2OTQ1NDExLDEzNjE4OTgzNjcsMTY3NTE5OTMwOS
+wtMTYzOTY3NzA5NiwzNTQ0MzY4NywxNzcxMTAxOTE1LC0xMzY5
+MDY3OTkwLDE2MDY4NzA1NTksLTE1NTYzNTI5MDQsMzU3MTA4Nj
+U0LDE4NDkyNTg1MjcsMjE1MzA3NjIsLTE5ODM3MDA4NzAsMjA4
+MDY1NjQ1Nl19
 -->
