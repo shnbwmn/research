@@ -59,6 +59,13 @@
 * [https://blog.hootsuite.com/target-market/](https://blog.hootsuite.com/target-market/)
 * [https://99designs.com/blog/business/define-your-target-audience/](https://99designs.com/blog/business/define-your-target-audience/)
 
+## Typography
+
+### System UI fonts
+
+* [https://codepen.io/espioX/pen/vZZzxd](https://codepen.io/espioX/pen/vZZzxd)
+* [https://medium.design/system-shock-6b1dc6d6596f#.mkjx129mm](https://medium.design/system-shock-6b1dc6d6596f#.mkjx129mm)
+
 ## 3D & Animation
 
 ### Traditional animation
@@ -144,11 +151,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzcyOTA0MiwxNjg0MzcyODE3LC0xMT
-E0NzkzNzMyLDExMTQyOTUyMTYsMjA5MDUxNTA3MiwxODgzNzQx
-Mjc2LC0xNjA2OTQ1NDExLDEzNjE4OTgzNjcsMTY3NTE5OTMwOS
-wtMTYzOTY3NzA5NiwzNTQ0MzY4NywxNzcxMTAxOTE1LC0xMzY5
-MDY3OTkwLDE2MDY4NzA1NTksLTE1NTYzNTI5MDQsMzU3MTA4Nj
-U0LDE4NDkyNTg1MjcsMjE1MzA3NjIsLTE5ODM3MDA4NzAsMjA4
-MDY1NjQ1Nl19
+eyJoaXN0b3J5IjpbMjA3ODQwODQzMSwxMTYzNzI5MDQyLDE2OD
+QzNzI4MTcsLTExMTQ3OTM3MzIsMTExNDI5NTIxNiwyMDkwNTE1
+MDcyLDE4ODM3NDEyNzYsLTE2MDY5NDU0MTEsMTM2MTg5ODM2Ny
+wxNjc1MTk5MzA5LC0xNjM5Njc3MDk2LDM1NDQzNjg3LDE3NzEx
+MDE5MTUsLTEzNjkwNjc5OTAsMTYwNjg3MDU1OSwtMTU1NjM1Mj
+kwNCwzNTcxMDg2NTQsMTg0OTI1ODUyNywyMTUzMDc2MiwtMTk4
+MzcwMDg3MF19
 -->
