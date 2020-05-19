@@ -147,15 +147,22 @@
 
 * [https://blog.hootsuite.com/how-to-create-a-social-media-marketing-plan/](https://blog.hootsuite.com/how-to-create-a-social-media-marketing-plan/)
 
+## Productivity
+
+### Mental models
+
+* [https://superthinking.com/](https://superthinking.com/)
+* [https://www.artofmanliness.com/articles/eisenhower-decision-matrix/](https://www.artofmanliness.com/articles/eisenhower-decision-matrix/)
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODQwODQzMSwxMTYzNzI5MDQyLDE2OD
-QzNzI4MTcsLTExMTQ3OTM3MzIsMTExNDI5NTIxNiwyMDkwNTE1
-MDcyLDE4ODM3NDEyNzYsLTE2MDY5NDU0MTEsMTM2MTg5ODM2Ny
-wxNjc1MTk5MzA5LC0xNjM5Njc3MDk2LDM1NDQzNjg3LDE3NzEx
-MDE5MTUsLTEzNjkwNjc5OTAsMTYwNjg3MDU1OSwtMTU1NjM1Mj
-kwNCwzNTcxMDg2NTQsMTg0OTI1ODUyNywyMTUzMDc2MiwtMTk4
-MzcwMDg3MF19
+eyJoaXN0b3J5IjpbLTg0NTYzNzc3LDIwNzg0MDg0MzEsMTE2Mz
+cyOTA0MiwxNjg0MzcyODE3LC0xMTE0NzkzNzMyLDExMTQyOTUy
+MTYsMjA5MDUxNTA3MiwxODgzNzQxMjc2LC0xNjA2OTQ1NDExLD
+EzNjE4OTgzNjcsMTY3NTE5OTMwOSwtMTYzOTY3NzA5NiwzNTQ0
+MzY4NywxNzcxMTAxOTE1LC0xMzY5MDY3OTkwLDE2MDY4NzA1NT
+ksLTE1NTYzNTI5MDQsMzU3MTA4NjU0LDE4NDkyNTg1MjcsMjE1
+MzA3NjJdfQ==
 -->
