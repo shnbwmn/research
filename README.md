@@ -59,6 +59,20 @@
 * [https://blog.hootsuite.com/target-market/](https://blog.hootsuite.com/target-market/)
 * [https://99designs.com/blog/business/define-your-target-audience/](https://99designs.com/blog/business/define-your-target-audience/)
 
+### Design Systems
+
+* [https://medium.muz.li/what-is-a-design-system-1e43d19e7696](https://medium.muz.li/what-is-a-design-system-1e43d19e7696)
+* [https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
+* [https://www.invisionapp.com/inside-design/guide-to-design-systems/](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
+* [https://designsystemsrepo.com/](https://designsystemsrepo.com/)
+* [https://designsystemsrepo.com/design-systems/](https://designsystemsrepo.com/design-systems/)
+* [Design Systems](https://www.designsystems.com/)
+* [Design Better](https://www.designbetter.co/)
+* [https://www.designbetter.co/design-systems-handbook](https://www.designbetter.co/design-systems-handbook)
+* [https://www.designbetter.co/design-systems-handbook](https://www.designbetter.co/design-systems-handbook)
+* [https://www.uxpin.com/create-design-system-guide](https://www.uxpin.com/create-design-system-guide)
+* [https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/](https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/)
+
 ## Typography
 
 ### System UI fonts
@@ -158,11 +172,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTYzNzc3LDIwNzg0MDg0MzEsMTE2Mz
-cyOTA0MiwxNjg0MzcyODE3LC0xMTE0NzkzNzMyLDExMTQyOTUy
-MTYsMjA5MDUxNTA3MiwxODgzNzQxMjc2LC0xNjA2OTQ1NDExLD
-EzNjE4OTgzNjcsMTY3NTE5OTMwOSwtMTYzOTY3NzA5NiwzNTQ0
-MzY4NywxNzcxMTAxOTE1LC0xMzY5MDY3OTkwLDE2MDY4NzA1NT
-ksLTE1NTYzNTI5MDQsMzU3MTA4NjU0LDE4NDkyNTg1MjcsMjE1
-MzA3NjJdfQ==
+eyJoaXN0b3J5IjpbLTE0NTY1OTU3MDQsLTg0NTYzNzc3LDIwNz
+g0MDg0MzEsMTE2MzcyOTA0MiwxNjg0MzcyODE3LC0xMTE0Nzkz
+NzMyLDExMTQyOTUyMTYsMjA5MDUxNTA3MiwxODgzNzQxMjc2LC
+0xNjA2OTQ1NDExLDEzNjE4OTgzNjcsMTY3NTE5OTMwOSwtMTYz
+OTY3NzA5NiwzNTQ0MzY4NywxNzcxMTAxOTE1LC0xMzY5MDY3OT
+kwLDE2MDY4NzA1NTksLTE1NTYzNTI5MDQsMzU3MTA4NjU0LDE4
+NDkyNTg1MjddfQ==
 -->
