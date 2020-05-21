@@ -43,6 +43,10 @@
 * https://kandi.co.za/how-to-write-a-brief/
 * https://www.shutterstock.com/blog/guide-graphic-design-process
 
+### Indesign
+
+* [https://layersmagazine.com/14-little-known-indesign-tips.html](https://layersmagazine.com/14-little-known-indesign-tips.html)
+
 ### Brand refresh & positioning
 
 * [https://www.creativeco.com/services/brand-refresh-rebrand](https://www.creativeco.com/services/brand-refresh-rebrand)
@@ -172,11 +176,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTY1OTU3MDQsLTg0NTYzNzc3LDIwNz
-g0MDg0MzEsMTE2MzcyOTA0MiwxNjg0MzcyODE3LC0xMTE0Nzkz
-NzMyLDExMTQyOTUyMTYsMjA5MDUxNTA3MiwxODgzNzQxMjc2LC
-0xNjA2OTQ1NDExLDEzNjE4OTgzNjcsMTY3NTE5OTMwOSwtMTYz
-OTY3NzA5NiwzNTQ0MzY4NywxNzcxMTAxOTE1LC0xMzY5MDY3OT
-kwLDE2MDY4NzA1NTksLTE1NTYzNTI5MDQsMzU3MTA4NjU0LDE4
-NDkyNTg1MjddfQ==
+eyJoaXN0b3J5IjpbLTE0Mjk3NDA5NSwtMTQ1NjU5NTcwNCwtOD
+Q1NjM3NzcsMjA3ODQwODQzMSwxMTYzNzI5MDQyLDE2ODQzNzI4
+MTcsLTExMTQ3OTM3MzIsMTExNDI5NTIxNiwyMDkwNTE1MDcyLD
+E4ODM3NDEyNzYsLTE2MDY5NDU0MTEsMTM2MTg5ODM2NywxNjc1
+MTk5MzA5LC0xNjM5Njc3MDk2LDM1NDQzNjg3LDE3NzExMDE5MT
+UsLTEzNjkwNjc5OTAsMTYwNjg3MDU1OSwtMTU1NjM1MjkwNCwz
+NTcxMDg2NTRdfQ==
 -->
