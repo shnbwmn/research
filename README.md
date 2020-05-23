@@ -123,6 +123,8 @@
 
 ## Web Design
 
+[https://www.w3schools.com/howto/howto_css_responsive_text.asp](https://www.w3schools.com/howto/howto_css_responsive_text.asp)
+
 ### CSS Masks
 
 * [https://css-tricks.com/clipping-masking-css/](https://css-tricks.com/clipping-masking-css/)
@@ -176,11 +178,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjk3NDA5NSwtMTQ1NjU5NTcwNCwtOD
-Q1NjM3NzcsMjA3ODQwODQzMSwxMTYzNzI5MDQyLDE2ODQzNzI4
-MTcsLTExMTQ3OTM3MzIsMTExNDI5NTIxNiwyMDkwNTE1MDcyLD
-E4ODM3NDEyNzYsLTE2MDY5NDU0MTEsMTM2MTg5ODM2NywxNjc1
-MTk5MzA5LC0xNjM5Njc3MDk2LDM1NDQzNjg3LDE3NzExMDE5MT
-UsLTEzNjkwNjc5OTAsMTYwNjg3MDU1OSwtMTU1NjM1MjkwNCwz
-NTcxMDg2NTRdfQ==
+eyJoaXN0b3J5IjpbLTIwMDkyMjgsLTE0Mjk3NDA5NSwtMTQ1Nj
+U5NTcwNCwtODQ1NjM3NzcsMjA3ODQwODQzMSwxMTYzNzI5MDQy
+LDE2ODQzNzI4MTcsLTExMTQ3OTM3MzIsMTExNDI5NTIxNiwyMD
+kwNTE1MDcyLDE4ODM3NDEyNzYsLTE2MDY5NDU0MTEsMTM2MTg5
+ODM2NywxNjc1MTk5MzA5LC0xNjM5Njc3MDk2LDM1NDQzNjg3LD
+E3NzExMDE5MTUsLTEzNjkwNjc5OTAsMTYwNjg3MDU1OSwtMTU1
+NjM1MjkwNF19
 -->
