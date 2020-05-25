@@ -77,6 +77,10 @@
 * [https://www.uxpin.com/create-design-system-guide](https://www.uxpin.com/create-design-system-guide)
 * [https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/](https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/)
 
+### Design Brief
+
+* [https://www.smashingmagazine.com/2020/05/design-brand-logo-wix/](https://www.smashingmagazine.com/2020/05/design-brand-logo-wix/)
+
 ## Typography
 
 ### System UI fonts
@@ -184,11 +188,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQ5NDY1NDYsLTIwMDkyMjgsLTE0Mj
-k3NDA5NSwtMTQ1NjU5NTcwNCwtODQ1NjM3NzcsMjA3ODQwODQz
-MSwxMTYzNzI5MDQyLDE2ODQzNzI4MTcsLTExMTQ3OTM3MzIsMT
-ExNDI5NTIxNiwyMDkwNTE1MDcyLDE4ODM3NDEyNzYsLTE2MDY5
-NDU0MTEsMTM2MTg5ODM2NywxNjc1MTk5MzA5LC0xNjM5Njc3MD
-k2LDM1NDQzNjg3LDE3NzExMDE5MTUsLTEzNjkwNjc5OTAsMTYw
-Njg3MDU1OV19
+eyJoaXN0b3J5IjpbOTE1ODk2OTIyLC0yMDA5MjI4LC0xNDI5Nz
+QwOTUsLTE0NTY1OTU3MDQsLTg0NTYzNzc3LDIwNzg0MDg0MzEs
+MTE2MzcyOTA0MiwxNjg0MzcyODE3LC0xMTE0NzkzNzMyLDExMT
+QyOTUyMTYsMjA5MDUxNTA3MiwxODgzNzQxMjc2LC0xNjA2OTQ1
+NDExLDEzNjE4OTgzNjcsMTY3NTE5OTMwOSwtMTYzOTY3NzA5Ni
+wzNTQ0MzY4NywxNzcxMTAxOTE1LC0xMzY5MDY3OTkwLDE2MDY4
+NzA1NTldfQ==
 -->
