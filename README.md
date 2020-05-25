@@ -161,6 +161,12 @@
 * [https://yoast.com/one-page-website-seo/](https://yoast.com/one-page-website-seo/)
 * [https://www.wordstream.com/meta-tags](https://www.wordstream.com/meta-tags)
 
+### Blocking yourself from Analytics on own site
+
+* [https://seo-michael.co.uk/how-to-stop-your-own-visits-showing-in-google-analytics/](https://seo-michael.co.uk/how-to-stop-your-own-visits-showing-in-google-analytics/)
+* [https://hangtenseo.com/stop-google-analytics-from-tracking-my-visits-2018/](https://hangtenseo.com/stop-google-analytics-from-tracking-my-visits-2018/)
+* [https://danielfuterman.com/stop-google-analytics-from-tracking-your-own-visits/](https://danielfuterman.com/stop-google-analytics-from-tracking-your-own-visits/)
+
 ## Social Media
 
 ### Strategy
@@ -178,11 +184,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDkyMjgsLTE0Mjk3NDA5NSwtMTQ1Nj
-U5NTcwNCwtODQ1NjM3NzcsMjA3ODQwODQzMSwxMTYzNzI5MDQy
-LDE2ODQzNzI4MTcsLTExMTQ3OTM3MzIsMTExNDI5NTIxNiwyMD
-kwNTE1MDcyLDE4ODM3NDEyNzYsLTE2MDY5NDU0MTEsMTM2MTg5
-ODM2NywxNjc1MTk5MzA5LC0xNjM5Njc3MDk2LDM1NDQzNjg3LD
-E3NzExMDE5MTUsLTEzNjkwNjc5OTAsMTYwNjg3MDU1OSwtMTU1
-NjM1MjkwNF19
+eyJoaXN0b3J5IjpbLTE2MzQ5NDY1NDYsLTIwMDkyMjgsLTE0Mj
+k3NDA5NSwtMTQ1NjU5NTcwNCwtODQ1NjM3NzcsMjA3ODQwODQz
+MSwxMTYzNzI5MDQyLDE2ODQzNzI4MTcsLTExMTQ3OTM3MzIsMT
+ExNDI5NTIxNiwyMDkwNTE1MDcyLDE4ODM3NDEyNzYsLTE2MDY5
+NDU0MTEsMTM2MTg5ODM2NywxNjc1MTk5MzA5LC0xNjM5Njc3MD
+k2LDM1NDQzNjg3LDE3NzExMDE5MTUsLTEzNjkwNjc5OTAsMTYw
+Njg3MDU1OV19
 -->
