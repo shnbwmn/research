@@ -81,6 +81,10 @@
 * https://filestage.io/blog/creative-brief-checklist/
 * https://kandi.co.za/how-to-write-a-brief/
 
+### Ideation
+
+* [https://uxmag.com/articles/think-fast-create-fast-innovate-fast-a-lightning-round-on-rapid-ideation](https://uxmag.com/articles/think-fast-create-fast-innovate-fast-a-lightning-round-on-rapid-ideation)
+
 ## Typography
 
 ### System UI fonts
@@ -188,11 +192,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY3NjU3MzAsLTIwMDkyMjgsLTE0Mj
-k3NDA5NSwtMTQ1NjU5NTcwNCwtODQ1NjM3NzcsMjA3ODQwODQz
-MSwxMTYzNzI5MDQyLDE2ODQzNzI4MTcsLTExMTQ3OTM3MzIsMT
-ExNDI5NTIxNiwyMDkwNTE1MDcyLDE4ODM3NDEyNzYsLTE2MDY5
-NDU0MTEsMTM2MTg5ODM2NywxNjc1MTk5MzA5LC0xNjM5Njc3MD
-k2LDM1NDQzNjg3LDE3NzExMDE5MTUsLTEzNjkwNjc5OTAsMTYw
-Njg3MDU1OV19
+eyJoaXN0b3J5IjpbMTY1OTE1MzI1LC0xMDk2NzY1NzMwLC0yMD
+A5MjI4LC0xNDI5NzQwOTUsLTE0NTY1OTU3MDQsLTg0NTYzNzc3
+LDIwNzg0MDg0MzEsMTE2MzcyOTA0MiwxNjg0MzcyODE3LC0xMT
+E0NzkzNzMyLDExMTQyOTUyMTYsMjA5MDUxNTA3MiwxODgzNzQx
+Mjc2LC0xNjA2OTQ1NDExLDEzNjE4OTgzNjcsMTY3NTE5OTMwOS
+wtMTYzOTY3NzA5NiwzNTQ0MzY4NywxNzcxMTAxOTE1LC0xMzY5
+MDY3OTkwXX0=
 -->
