@@ -74,16 +74,35 @@
 * [https://www.uxpin.com/create-design-system-guide](https://www.uxpin.com/create-design-system-guide)
 * [https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/](https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/)
 
-### Design Brief
+### Creative Brief
 
 * [https://www.smashingmagazine.com/2020/05/design-brand-logo-wix/](https://www.smashingmagazine.com/2020/05/design-brand-logo-wix/)
 * https://www.workamajig.com/blog/creative-brief
 * https://filestage.io/blog/creative-brief-checklist/
 * https://kandi.co.za/how-to-write-a-brief/
+* [https://www.webdesignerdepot.com/2011/03/7-basics-to-create-a-good-design-brief/](https://www.webdesignerdepot.com/2011/03/7-basics-to-create-a-good-design-brief/)
 
 ### Ideation
 
 * [https://uxmag.com/articles/think-fast-create-fast-innovate-fast-a-lightning-round-on-rapid-ideation](https://uxmag.com/articles/think-fast-create-fast-innovate-fast-a-lightning-round-on-rapid-ideation)
+
+### Tone of voice
+
+* [https://www.nngroup.com/articles/tone-of-voice-dimensions/](https://www.nngroup.com/articles/tone-of-voice-dimensions/)
+* [https://www.distilled.net/tone-of-voice/](https://www.distilled.net/tone-of-voice/)
+* [https://www.davechaffey.com/digital-marketing-glossary/brand-tone-of-voice/](https://www.davechaffey.com/digital-marketing-glossary/brand-tone-of-voice/)
+
+### Social Media Management
+
+* [https://tech.co/digital-marketing/social-media-management-guide](https://tech.co/digital-marketing/social-media-management-guide)
+* [https://www.lyfemarketing.com/blog/what-is-social-media-management/](https://www.lyfemarketing.com/blog/what-is-social-media-management/)
+* [SocialBlade](https://socialblade.com/)
+
+### Design Process
+
+* [https://filestage.io/blog/graphic-design-process/](https://filestage.io/blog/graphic-design-process/)
+* [https://concept9.ca/the-graphic-design-process-in-5-steps/](https://concept9.ca/the-graphic-design-process-in-5-steps/)
+* [https://www.shutterstock.com/blog/guide-graphic-design-process](https://www.shutterstock.com/blog/guide-graphic-design-process)
 
 ## Typography
 
@@ -192,11 +211,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTE1MzI1LC0xMDk2NzY1NzMwLC0yMD
-A5MjI4LC0xNDI5NzQwOTUsLTE0NTY1OTU3MDQsLTg0NTYzNzc3
-LDIwNzg0MDg0MzEsMTE2MzcyOTA0MiwxNjg0MzcyODE3LC0xMT
-E0NzkzNzMyLDExMTQyOTUyMTYsMjA5MDUxNTA3MiwxODgzNzQx
-Mjc2LC0xNjA2OTQ1NDExLDEzNjE4OTgzNjcsMTY3NTE5OTMwOS
-wtMTYzOTY3NzA5NiwzNTQ0MzY4NywxNzcxMTAxOTE1LC0xMzY5
-MDY3OTkwXX0=
+eyJoaXN0b3J5IjpbLTk0NzQ2NzEwMCwxNjU5MTUzMjUsLTEwOT
+Y3NjU3MzAsLTIwMDkyMjgsLTE0Mjk3NDA5NSwtMTQ1NjU5NTcw
+NCwtODQ1NjM3NzcsMjA3ODQwODQzMSwxMTYzNzI5MDQyLDE2OD
+QzNzI4MTcsLTExMTQ3OTM3MzIsMTExNDI5NTIxNiwyMDkwNTE1
+MDcyLDE4ODM3NDEyNzYsLTE2MDY5NDU0MTEsMTM2MTg5ODM2Ny
+wxNjc1MTk5MzA5LC0xNjM5Njc3MDk2LDM1NDQzNjg3LDE3NzEx
+MDE5MTVdfQ==
 -->
