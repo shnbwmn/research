@@ -207,15 +207,19 @@
 * [https://superthinking.com/](https://superthinking.com/)
 * [https://www.artofmanliness.com/articles/eisenhower-decision-matrix/](https://www.artofmanliness.com/articles/eisenhower-decision-matrix/)
 
+### Tips
+
+* [https://timemanagementninja.com/2013/02/29-ways-youre-wasting-time-today/](https://timemanagementninja.com/2013/02/29-ways-youre-wasting-time-today/)
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzQ2NzEwMCwxNjU5MTUzMjUsLTEwOT
-Y3NjU3MzAsLTIwMDkyMjgsLTE0Mjk3NDA5NSwtMTQ1NjU5NTcw
-NCwtODQ1NjM3NzcsMjA3ODQwODQzMSwxMTYzNzI5MDQyLDE2OD
-QzNzI4MTcsLTExMTQ3OTM3MzIsMTExNDI5NTIxNiwyMDkwNTE1
-MDcyLDE4ODM3NDEyNzYsLTE2MDY5NDU0MTEsMTM2MTg5ODM2Ny
-wxNjc1MTk5MzA5LC0xNjM5Njc3MDk2LDM1NDQzNjg3LDE3NzEx
-MDE5MTVdfQ==
+eyJoaXN0b3J5IjpbLTk4Njc0MzU5MiwtOTQ3NDY3MTAwLDE2NT
+kxNTMyNSwtMTA5Njc2NTczMCwtMjAwOTIyOCwtMTQyOTc0MDk1
+LC0xNDU2NTk1NzA0LC04NDU2Mzc3NywyMDc4NDA4NDMxLDExNj
+M3MjkwNDIsMTY4NDM3MjgxNywtMTExNDc5MzczMiwxMTE0Mjk1
+MjE2LDIwOTA1MTUwNzIsMTg4Mzc0MTI3NiwtMTYwNjk0NTQxMS
+wxMzYxODk4MzY3LDE2NzUxOTkzMDksLTE2Mzk2NzcwOTYsMzU0
+NDM2ODddfQ==
 -->
